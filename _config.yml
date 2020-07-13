@@ -6,7 +6,7 @@
 title: siny._.k.develop.log
 email: hyeshin2530@naver.com
 description: 주니어 개발자 siny._.k의 개발 블로그.
-url: http://sinyya.github.io/ # the base hostname & protocol for your site
+url: sinyya.github.io # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 #
