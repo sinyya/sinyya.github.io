@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+title: siny._.k.develop.log
+email: hyeshin2530@naver.com
+description: 주니어 개발자 siny._.k의 개발 블로그.
+url: http://sinyya.github.io/ # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 #
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
-  disqus-shortname:
+  name: siny._.k
+  avatar: profile.png
+  job: "Front-end Developer"
+  bio: "열심히 삽질 중인 주니어 개발자 입니다."
+  email: hyeshin2530@naver.com
+  disqus-shortname: sinyk
   twitter: #username
-  facebook: #username
+  facebook: kim.hyeshin.87 #username
   google:
     plus: #username
     analytics:
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: sinyya #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: siny.__.k #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
